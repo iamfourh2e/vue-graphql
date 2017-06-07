@@ -1,0 +1,1 @@
+export const Comment = new Mongo.Collection('comment')

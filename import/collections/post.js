@@ -1,0 +1,1 @@
+export const Post = new Mongo.Collection('post');

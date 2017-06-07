@@ -1,0 +1,23 @@
+{
+  "name": "vue-graphql",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^1.4.0",
+    "babel-runtime": "^6.20.0",
+    "cors": "^2.8.3",
+    "express-graphql": "^0.6.6",
+    "graphql-subscriptions": "^0.4.2",
+    "graphql-tag": "^2.2.2",
+    "graphql-tools": "^1.0.0",
+    "meteor-node-stubs": "~0.2.4",
+    "restify": "^4.3.0",
+    "subscriptions-transport-ws": "^0.7.1",
+    "vue": "^2.3.3",
+    "vue-apollo": "^2.1.0-beta.8",
+    "vue-meteor-tracker": "^1.0.3"
+  },
+  "devDependencies": {}
+}
